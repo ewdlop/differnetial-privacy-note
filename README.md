@@ -2,6 +2,8 @@
 
 If llm implements differential privacy...then the accuracy is low. DUH
 
+If implementations are wrong, it exposes more wrong privacy.
+
 
 你問得非常好，這其實觸及了**同態加密（Homomorphic Encryption, HE）**的核心性質。讓我分幾個層次來解釋：
 
